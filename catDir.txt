@@ -1,0 +1,19 @@
+.:
+total 16K
+drwxrwxr-x 2 lathian lathian 4.0K Dec  8 16:20 bin
+-rw-rw-r-- 1 lathian lathian    0 Dec  8 16:21 dir.txt
+-rw-rw-r-- 1 lathian lathian 1.1K Dec  8 12:13 question.txt
+drwxrwxr-x 2 lathian lathian 4.0K Dec  8 16:20 src
+-rw-rw-r-- 1 lathian lathian  785 Dec  8 16:18 terminalOutput.txt
+
+./bin:
+total 8.0K
+-rw-rw-r-- 1 lathian lathian  842 Dec  8 11:52 C2.class
+-rw-rw-r-- 1 lathian lathian 2.6K Dec  8 16:21 JavaShell.class
+
+./src:
+total 12K
+-rw-r--r-- 1 lathian lathian 1.6K Dec  7 17:00 C2.java
+-rw-rw-r-- 1 lathian lathian 2.1K Dec  8 14:37 JavaShell.class
+-rw-rw-r-- 1 lathian lathian 2.6K Dec  8 16:21 JavaShell.java
+Tue Dec  8 16:21:41 EST 2015

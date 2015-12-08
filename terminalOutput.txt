@@ -1,0 +1,11 @@
+Please enter a command line argument or enter to exit: ls -lRh > dir.txt
+Waiting for latest subprocess to return
+Please enter a command line argument or enter to exit: date > dir.txt
+Waiting for latest subprocess to return
+Please enter a command line argument or enter to exit: cat dir.txt > catDir.txt
+Waiting for latest subprocess to return
+Please enter a command line argument or enter to exit: vlc&
+Subprocess will terminate on it's own, not waiting.
+Please enter a command line argument or enter to exit:gedit
+Waiting for latest subprocess to return
+Please enter a command line argument or enter to exit: 
